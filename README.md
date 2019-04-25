@@ -1,3 +1,5 @@
+**This repository is deprecated. Please see https://github.com/Esri/hiking-trails-app instead.**
+
 # Hiking trails Swiss National Park
 
 This application displays the hiking trails in the [Swiss National Park](http://www.nationalpark.ch/en/). The Swiss National Park is the most highly preserved area in Switzerland and it is a beloved place to go hiking.
